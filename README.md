@@ -17,3 +17,6 @@ MarkDown是一种超文本语言，今天我第一次学习了它。
 有点意思下面这张gif，可以形容我的心情：
 
 ![](https://qgt-style.oss-cn-hangzhou.aliyuncs.com/newcoursep4/g1/g1-2-2/tenor.gif)
+get add是提交的第一步get add -A A就是all的意思
+git commit -m 是提交的第二步 -m"是本次提交修改的备注"
+git push是第三步 第一次提交：git push orgin main 后面为：git push
